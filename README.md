@@ -17,7 +17,7 @@ npm install
 node .
 ```
 
-And visit [http://localhost:8000](localhost:8000). Your eyes should bleed with the ugliest and the `alert()` notifications, but it shows a few things:
+And visit [localhost:8000](http://localhost:8000). Your eyes should bleed with the ugliest and the `alert()` notifications, but it shows a few things:
 
 - registration using FCM, service worker, and posting registration to backend
 - web push API only. no android/ios stuff.
